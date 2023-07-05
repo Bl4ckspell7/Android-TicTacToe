@@ -1,3 +1,5 @@
 # Tic Tac Toe
-Simple android app.
-Min. SDK: Android 13
+- Simple Android app.
+- Min. SDK: Android 13
+- Supports Material 3 Dynamic Colors.
+- Code by ChatGPT.
